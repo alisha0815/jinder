@@ -27,5 +27,5 @@
 
 ## 🚀 Contributors
 <p align="left"> 
- This project is a collaborated work of other three developers, <strong>Karen Planas, Martin West, Sergi Hernandez Font</strong>
+ This app was built in collaboration with other three developers, <strong>Karen Planas, Martin West, Sergi Hernandez Font</strong>
   </p>
